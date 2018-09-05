@@ -18,10 +18,10 @@ var IdentityPoint = ed448.NewPoint([16]uint32{0x00}, [16]uint32{0x01}, [16]uint3
 const (
 	ClientProfileTagInstanceTag           = uint16(0x0001)
 	ClientProfileTagPublicKey             = uint16(0x0002)
-	ClientProfileTagVersions              = uint16(0x0004)
-	ClientProfileTagExpiry                = uint16(0x0005)
-	ClientProfileTagDSAKey                = uint16(0x0006)
-	ClientProfileTagTransitionalSignature = uint16(0x0008)
+	ClientProfileTagVersions              = uint16(0x0003)
+	ClientProfileTagExpiry                = uint16(0x0004)
+	ClientProfileTagDSAKey                = uint16(0x0005)
+	ClientProfileTagTransitionalSignature = uint16(0x0006)
 )
 
 var kdfPrekeyServerPrefix = []byte("OTR-Prekey-Server")

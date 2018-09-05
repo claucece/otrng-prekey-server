@@ -1,0 +1,14 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "/fOD6zbxTMV9+Ib9pY4F4ciNMQc=",
+			"origin": "github.com/otrv4/otrng-prekey-server/vendor/github.com/coyim/gotrax",
+			"path": "github.com/coyim/gotrax",
+			"revision": "d44b1a8a9a8a8927d361154588c01918b356f9a7",
+			"revisionTime": "2018-09-05T03:07:06Z"
+		}
+	],
+	"rootPath": "github.com/otrv4/otrng-prekey-server"
+}
